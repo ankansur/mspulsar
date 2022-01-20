@@ -11,7 +11,7 @@ from datalib import Data
 from mayavi import mlab
 from scipy.interpolate import RegularGridInterpolator
 from scipy.interpolate import griddata
-import healpy as hp
+#import healpy as hp
 from mpl_toolkits.mplot3d import Axes3D
 
 datadir='.'
